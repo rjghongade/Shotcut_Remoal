@@ -33,7 +33,7 @@ This Python script helps remove shortcut viruses from a specified directory, suc
 2. Ensure Python is installed and accessible from your command line.
 
 ## Usage
-1. Open the script file `remove_shortcut_virus.py` and specify the path to the directory you want to scan:
+1. Open the script file `os.py` and specify the path to the directory you want to scan:
     ```python
     usb_drive_path = 'F:\\'  # Replace with the correct drive letter
     ```
